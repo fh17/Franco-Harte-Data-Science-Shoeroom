@@ -1,6 +1,8 @@
 <h2>Franco Harte Portfolio</h2>
 
+![](images/WhatsApp%20Image%202023-04-19%20at%2015.59.53%20pperfil%20frnaki%20asador%20crack.jpeg.png)
 
+![](images/portada3.jpg)
 
 My name is Franco Harte, I'm 25 and I finished my studys of data science at Nucleo Digital School this year.
 

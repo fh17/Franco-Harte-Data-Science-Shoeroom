@@ -33,6 +33,6 @@ In the following project two approches were used, working with the dataset cifra
 
 The Walking Cliff project is a reinforcement learning problem from "gym library" where an agent, represented by a simple stick figure, must learn to navigate a cliff-like environment without falling. The agent receives rewards for reaching the end of the cliff and penalties for falling off. The project is designed to showcase the capabilities of reinforcement learning algorithms, which enable agents to learn from trial and error using a system of rewards and punishments.
 
-[Problem 5: Final Proyect of the Master "DSMarket Data Science Implementation](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/Copia%20de%20Franki%20TFM.ipynb)
+[Problem 5: Final Proyect of the Master "DSMarket Data Science Implementation"](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/Copia%20de%20Franki%20TFM.ipynb)
 
 This is the Final Evaluation of the Nuclio Digital School Data Science´s Master. In which the student (myself) had to develop de hole deparment of  data science for the company SDMarket, Starting from analising and exploring all the sales data that the company was saving the last years, understandig the buisness, propousing ideas to improve the working sistem of the company, such as stock management, shipment work and publisity aplication. And also the debelopment of a maching lerning tool that can make all of this easier to do, and its subsequent implementation

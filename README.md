@@ -1,6 +1,5 @@
 <h2>Franco Harte Portfolio</h2>
 
-![](images/WhatsApp%20Image%202023-04-19%20at%2015.59.53%20pperfil%20frnaki%20asador%20crack.jpeg.png)
 
 ![](images/portada3.jpg)
 
@@ -17,13 +16,13 @@ In this Github profile it will be posted different projects of Data science wher
 
 Showcase of data engineering techniques and predictions.
 Exploratory data analysis.
-Data Cleaning and Preprossesing
-Prediction method application
-    Linear Regression 
-    Support Vector Regression 
-    K Neighbors Regressor 
-    Decision Tree 
-    Gradient Boosting Regressor
+Data Cleaning and Preprossesing.
+Prediction method application:
+    Linear Regression, 
+    Support Vector Regression, 
+    K Neighbors Regressor, 
+    Decision Tree, 
+    Gradient Boosting Regressor.
 Evaluation of the models through different metrics and plots.
 
 [Project 2: Malware detection 👾 💻](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/0322_SupML_Franco_Harte.ipynb)

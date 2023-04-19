@@ -6,12 +6,9 @@
 
 My name is Franco Harte, I'm 25 and I finished my studys of data science at Nucleo Digital School this year.
 
-So far, I finished my bachelor degree of mechanical engineering in the University of Rosario (Argenrtina) in 2021, come abroad that same year to Belgium to play professional Field Hockey (what I still do) and at the same time I studied data science. Thanks to my degree I've been able to acquire knowledge in general science, statistics and design working with programmes such as Matlab and SolidWorks studio.
+So far, I finished my bachelor degree of mechanical engineering in the University of Rosario (Argenrtina) in 2021, come abroad that same year to Belgium to play professional Field Hockey (what I still do) and at the same time I studied data science. Thanks to my previous degree I've been able to acquire knowledge in general science, statistics and design working with programmes such as Matlab and SolidWorks studio, what have been very useful and advantageous for my Data Science development.
 
-In this Github profile it will be posted different projects of Data science where my skills will be shown.
-
-
-In this page I show my work and proyects as a Data Scientist.
+In this Github profile it will be posted different projects of Data science where my skills as a Data Scientist will be shown.
 
 
 <h2><u>Projects</u></h2>
@@ -33,8 +30,8 @@ Evaluation of the models through different metrics and plots.
 
 This project is a Kaggle competition of Microsoft of 2016 where the goal was to make a model which predicts if a computurer was going to be infected.
 Concepts that were emphasized inthis work were:
-    Data cleaninig
-    Optimisation of the code
+    Data cleaninig,
+    Optimisation of the code,
     Metrics for evaluation
 
 [Project 3: TimeSerie Benchmark](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/benchmark-ts-n-xgboost-kaggle.ipynb)

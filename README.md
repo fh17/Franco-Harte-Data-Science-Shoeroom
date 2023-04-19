@@ -1,6 +1,6 @@
 <h2>Franco Harte Portfolio</h2>
 
-
+![](images/perfil1.png)
 ![](images/portada1.jpg)
 
 My name is Franco Harte, I'm 25 and I finished my studys of data science at Nucleo Digital School this year.

@@ -2,7 +2,7 @@
 
 [Project 1: BMW agency's Price Predictor](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/Proyect_Prediction_BMW%20.ipynb)
 
-![](/images/7c0acd_008014473507461fb57a5e2307bc409f~mv2.jpg)
+![](/images/bmw.png)
 
 Showcase of data engineering techniques and predictions.
 Exploratory data analysis.

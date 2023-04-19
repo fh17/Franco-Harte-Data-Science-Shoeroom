@@ -2,7 +2,7 @@
 
 [Project 1: BMW agency's Price Predictor](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/Proyect_Prediction_BMW%20.ipynb)
 
-![](/images/bmw.png)
+###![](/images/bmw.png)
 
 Showcase of data engineering techniques and predictions.
 Exploratory data analysis.
@@ -39,7 +39,7 @@ In the following project two approches were used, working with the dataset cifra
 
 [Project 5: Cliff Walking Problem](https://github.com/fh17/Franco_portfolio/blob/main/Portfolio/Cliff_Walking.ipynb)
 
-![](/images/cliff_walking.gif)
+![](images/1_52MwrYKyzQXuKZ88rqu70Acliff.png)
 
 The Walking Cliff project is a reinforcement learning problem from "gym library" where an agent, represented by a simple stick figure, must learn to navigate a cliff-like environment without falling. The agent receives rewards for reaching the end of the cliff and penalties for falling off. The project is designed to showcase the capabilities of reinforcement learning algorithms, which enable agents to learn from trial and error using a system of rewards and punishments.
 

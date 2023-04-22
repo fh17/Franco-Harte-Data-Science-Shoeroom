@@ -5,7 +5,7 @@
 
 My name is Franco Harte, I'm 25 and I finished my studys of data science at Nucleo Digital School this year.
 
-So far, I finished my bachelor degree of mechanical engineering in the University of Rosario (Argenrtina) in 2021, come abroad that same year to Belgium to play professional Field Hockey (what I still do) and at the same time I studied data science. Thanks to my previous degree I've been able to acquire knowledge in general science, statistics and design working with programmes such as Matlab and SolidWorks studio, what have been very useful and advantageous for my Data Science development.
+So far, I finished my bachelor degree of mechanical engineering in the University of Rosario (Argentina) in 2021, come abroad that same year to Belgium to play professional Field Hockey (what I still do) and at the same time I studied data science. Thanks to my previous degree I've been able to acquire knowledge in general science, statistics and design working with programmes such as Matlab and SolidWorks studio, what have been very useful and advantageous for my Data Science development.
 
 In this Github profile it will be posted different projects of Data science where my skills as a Data Scientist will be shown.
 
